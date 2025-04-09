@@ -1,4 +1,5 @@
 # hyper-launch-project
+
 Problem Statement 
 
 This project aims to build a Python application that analyzes and predicts student academic performance using supervised machine learning. The dataset includes demographic and educational factors such as gender, race/ethnicity, parental education level, lunch type, and test preparation status to predict students' performance in subjects like math, reading, and writing.
